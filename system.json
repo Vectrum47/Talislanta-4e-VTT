@@ -1,7 +1,7 @@
 {
-  "id": "worldbuilding",
+  "id": "talislanta",
   "version": "0.7.2",
-  "title": "Simple World-Building",
+  "title": "Talislanta 4e!",
   "url": "https://gitlab.com/foundrynet/worldbuilding/",
   "description": "A minimalist game system which provides configurable Actor and Item templates to support free-form system agnostic game-play.",
   "license": "LICENSE.txt",
@@ -11,8 +11,8 @@
       "url": "https://foundryvtt.com"
     }
   ],
-  "esmodules": ["module/simple.js"],
-  "styles": ["styles/simple.css"],
+  "esmodules": [ "module/simple.js" ],
+  "styles": [ "styles/simple.css" ],
   "packs": [],
   "languages": [
     {
